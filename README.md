@@ -1,2 +1,5 @@
-# yet_another_webserver_backup_script
-Yet another web server backup script, that will get a copy of all databases and/or files from an assigned server
+# Yet another webserver backup script
+
+It will get a copy of all databases and/or files from an assigned server. just add it to the crontab and setup the variables , and it will do the job
+
+
