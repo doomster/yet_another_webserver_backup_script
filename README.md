@@ -18,3 +18,6 @@ Just run ./backup.sh followed by one of the flags :
    -c     to perform full backup
    
    -h     help (this output)
+
+### To do :
+- There should be a possibility to load external configuration file, that would contain the variables for the backup ( dibs on -o flag) 
